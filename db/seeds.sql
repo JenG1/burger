@@ -1,2 +1,8 @@
 USE burger_db;
-INSERT INTO burgers (burger_name,devoured) VALUES ("Cheeseburger",false),("Chili burger",false),("Hamburger",false),("Veggie burger",false),("Bacon cheeseburger",true),("Honker burger",false),("Turkey burger",false),("Tofu burger",true);
+INSERT INTO burgers(name) VALUES ("Cheeseburger");
+INSERT INTO burgers(name) VALUES ("Hamburger");
+INSERT INTO burgers(name) VALUES ("Veggie burger");
+INSERT INTO burgers(name) VALUES ("Cheeseburger");
+INSERT INTO burgers (name, devoured) VALUES ('Turkey burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('Bacon cheeseburger', true);
+INSERT INTO burgers (name, devoured) VALUES ('Tofu burger', true);
