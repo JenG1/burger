@@ -9,8 +9,8 @@ git
 ## Application Heroku Link
 The link below will give you direct access to Eat-Da-Burger web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
-<!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
-* [Eat-Da-Burger](https://jg123-eatdaburger.herokuapp.com/)
+
+* [Eat-Da-Burger](https://sleepy-brushlands-52487.herokuapp.com/)
 
 ## Local Environment Setup
 To use Eat-Da-Burger web application application from your local environment, you must accomplish the following steps below:
