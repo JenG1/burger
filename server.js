@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 const exphbs = require("express-handlebars");
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
-const routes = require("./controllers/burgers_controller.js");
+const routes = require("./controllers/burgers_controller");
 
 app.use(routes);
 
